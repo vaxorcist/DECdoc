@@ -14,7 +14,7 @@ I assume there are two possible ways to go (not excluding each other):
 - A single user version (probably based on an SQLite database) as a Windows/Linux program or as an mobile app (or both).
 - A web-based multi user version (using the current PostgreSQL database)
 
-Other proposals are welocome, of course!
+Other proposals are welcome, of course!
 
 I had an attempt using "Kivy" for platform independance, but my knowledge of Python didn't suffice.
 
